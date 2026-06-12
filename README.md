@@ -9,4 +9,4 @@ This repository stores research articles we published on the Google Tag Manager 
   - This article mentions the GTM-EyE browser extension for the first time.
 
 
-These works have been carried out in the context of the PhD of Gilles Mertens (https://theses.fr/s352567), supported by the ANR 22-PECY-0002 IPoP (Interdisciplinary Project on Privacy) project of the Cybersecurity PEPR.
+These works have been carried out in the context of the PhD of Gilles Mertens (https://theses.fr/s352567), supported by the ANR 22-PECY-0002 [IPoP (Interdisciplinary Project on Privacy) project](https://files.inria.fr/ipop/) of the [Cybersecurity PEPR](https://www.pepr-cybersecurite.fr).
