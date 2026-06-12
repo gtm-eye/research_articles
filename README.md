@@ -1,4 +1,4 @@
-# research_articles
+# Related research articles
 
 This repository stores research articles we published on the Google Tag Manager system.
 
